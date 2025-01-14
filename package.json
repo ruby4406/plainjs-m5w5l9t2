@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ruby4406.plainjs-m5w5l9t2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8VrIvK6FbYPlNBUiEXBc --open"
+  }
+}
